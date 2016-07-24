@@ -424,7 +424,7 @@
 
 <!-- BEGIN ELEPHONE TRUNK -->
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common"/>
-  <project path="device/elephone/trunk" name="ottmi/android_device_elephone_trunk"/>
+  <project path="device/elephone/trunk" name="fabian-rump/android_device_elephone_trunk"/>
   <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common"/>
   <project path="kernel/cyanogen/msm8916" name="ottmi/android_kernel_elephone_trunk" revision="refs/heads/cm-13.0-caf"/>
   <project path="hardware/qcom/audio/default" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
